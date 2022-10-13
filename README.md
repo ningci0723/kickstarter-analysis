@@ -51,7 +51,9 @@ The Challenge I met is how to use `COUNTIFS()` function to calculate the correct
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### All Calculations used for Results part can be found in the “Outcomes based on Launch Date” sheet and "Outcomes Based on Goals" sheet in the Kickstarter_Challenge file.[Kickstarter_Challenge](https://github.com/ningci0723/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx)
+
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 * According to the pivot table and line chart created, we can find that:
 
@@ -59,17 +61,17 @@ The Challenge I met is how to use `COUNTIFS()` function to calculate the correct
 
   2. There are 166 projects in theater category launched in May, of which 111 projects are successful. The successful rate is around 67% which is also the highest compared to other 11 months. The total number of projects launched and succeeded are the highest in May during the whole year. There are only 75 projects launched in December with 37 projects successful. The total number of projects launched and succeeded are lowest in December during the whole year. The successful rate is around 49% which is also lowest compared to other 11 months.
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 
 * According to the new sheet and line chart created, we can find that for "Play" subcategory, there are 534 projects having the goal of 1000 to 4999, which means that each of these 543 projects will need 1000 to 4999 to succeed. The amount range (1000 to 4999) of the goal has highest total number of projects compared to others. The successful rate is 76% with the goal less than 1000, which is the highest successful rate compared to other goals. When the goal is 45000 to 49999, the failed rate is 100%, which is the highest one. There are no trends for the successful rate and failed rate based on goals for "Play" subcategory.
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
 
 * The dataset appears to be too concentrated in some specific years as around 78% projects were launched in 2014, 2015 and 2016, and only 22% were launched in other years, which may have a better analysis and more accurate result if the data would be distributed more evenly in different years.
 
 * The dataset appears to have too small number of total projects in specific categories such as journalism which only includes 24 projects so that the analysis may not evaluate the outcomes accurately based on such small database.
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 
 * We can create a table and/or graph for projects in general ( all categories) or specific categories such as theater based on different country to find in which country the projects are most likely to be successful.
 
